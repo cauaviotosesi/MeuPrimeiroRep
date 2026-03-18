@@ -24,3 +24,7 @@
 #### Para enviar essas informações é nescessario usar o seguinte comando:
 ### "git push -u origin main"
 #### Assim, todas as alterações serão feitas e o historico salvo!
+## 7° passo: sincronizar informações salvas no github
+#### Quando você fizer alguma mudança no seu Github, sua maquina local ficará desatualizada, portanto usamos o comando:
+### "git pull"
+#### Para que possamos atualizar a maquina local com as informações do github.
