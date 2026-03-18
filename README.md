@@ -20,3 +20,7 @@
 ## 5° passo: adicionar um commit (modificação)
 #### Para marcar que você realizou uma modificação no github você precisa excutar o seguinte comando:
 ### "git commit -m ["Sua mesagem"]"
+## 6° passo: enviar essas informações armazenadas no Github
+#### Para enviar essas informações é nescessario usar o seguinte comando:
+### "git push -u origin main"
+#### Assim, todas as alterações serão feitas e o historico salvo!
